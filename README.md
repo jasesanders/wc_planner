@@ -2,6 +2,8 @@
 
 A local-first React + TypeScript app for deciding which FIFA World Cup 2026 matches to attend, watch at LA fan zones, watch at COSM / immersive theater, watch on TV, or skip.
 
+Published site: http://jasesanders.com/wc_planner/
+
 ## Run
 
 ```bash
